@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: docs/intro.md
+chapters:
+- file: docs/markdown.md
+- file: docs/notebooks.ipynb
+- file: docs/markdown-notebooks.md
