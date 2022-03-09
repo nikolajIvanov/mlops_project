@@ -3,7 +3,12 @@
 
 format: jb-book
 root: docs/intro.md
-chapters:
-- file: docs/markdown.md
-- file: docs/notebooks.ipynb
-- file: docs/markdown-notebooks.md
+parts:
+  - caption: Intro
+  chapters:
+  - file: docs/markdown.md
+  - file: docs/notebooks.ipynb
+  - file: docs/markdown-notebooks.md
+  - caption: Frameworks
+  chapters:
+  - file: docs/tfx.md
