@@ -1,11 +1,4 @@
-# Welcome to your Jupyter Book
+# Welcome to my Data Science & MLOps project
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
-
-```{tableofcontents}
-```
+In this project I will analyze and visualize the dataset ""Used Car Auction Prices" "from kaggle. (<https://www.kaggle.com/tunguz/used-car-auction-prices>).
+In the coming months i will post my approach as well as my results in this book.
